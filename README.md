@@ -4,7 +4,7 @@ This repository contains the study's analysis code and country/global result tab
 
 ## Reproduce analyses from the included results
 
-Use Python 3.11 or later and install the analysis dependencies in an isolated environment:
+The aggregate analyses were verified with Python 3.12.14. Install the analysis dependencies in an isolated Python 3.12 environment:
 
 ```sh
 python -m pip install -r requirements-analysis.txt
