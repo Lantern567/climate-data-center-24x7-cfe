@@ -1,0 +1,9 @@
+# Tested environment for scripts 24--26.  TimezoneFinder is intentionally
+# pinned below v8 because v8 requires NumPy >=2 and conflicts with the current
+# SciPy/matplotlib research environment.
+numpy==1.26.4
+pandas==2.3.1
+pyarrow==16.1.0
+requests==2.32.4
+scipy==1.13.1
+timezonefinder==6.5.9

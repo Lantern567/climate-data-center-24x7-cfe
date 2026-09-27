@@ -1,0 +1,11 @@
+# Fixed-2025-capacity, 1995--2014 ERA5 ARCO replay.
+# Versions remain compatible with the NumPy 1.26 climate-coupling environment.
+numpy==1.26.4
+pandas==2.3.1
+pyarrow==16.1.0
+requests==2.32.4
+xarray==2023.6.0
+fsspec==2024.6.1
+aiohttp==3.10.5
+zarr==2.18.7
+numcodecs==0.15.1

@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "pool_plans": 37008,
+  "mode_climate_cases": 34,
+  "maximum_hourly_gap_mw": 0.0,
+  "total_gap_mwh": 0.0,
+  "maximum_relative_optimality_gap": 2.0000000005016005e-06,
+  "full_matching_premium_denominator": "complete annual cost of historical mean-annual-energy reference wind/PV assets, no storage",
+  "climate_cost_increment_denominator": "cost of a separate historical-climate plan satisfying the same 100% hourly target",
+  "no_free_existing_assets": true,
+  "all_twenty_weather_years_satisfied": true
+}

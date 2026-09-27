@@ -1,0 +1,507 @@
+[
+  {
+    "path": "output/commissioning_learning_20260919/aggregate_validation.json",
+    "bytes": 859,
+    "sha256": "70b7c848ea49a81cd96025d516b6784e244007966c8f28e5057d979111bfd1e4"
+  },
+  {
+    "path": "output/commissioning_learning_20260919/commissioning_global_results.csv",
+    "bytes": 435267,
+    "sha256": "678d07fedf30120c29b0aaff1f405676aa66db0041fb536176661a0993ae8b21"
+  },
+  {
+    "path": "output/commissioning_learning_20260919/independent_validation.json",
+    "bytes": 19515,
+    "sha256": "01535b462b8e762a7bb25ad19d6e1c31eb7e55e1e6d1b3599219c0b80d9399bb"
+  },
+  {
+    "path": "output/commissioning_learning_20260919/pool_plans.csv",
+    "bytes": 39502852,
+    "sha256": "edd8a9dbb68aab11cccc825426365fd9c23d652b447b2d98e4bb839260944af7"
+  },
+  {
+    "path": "output/commissioning_learning_20260919/technology_contributions.csv",
+    "bytes": 715,
+    "sha256": "7dd0b4e7ed316e80aa3fcbedfa4227ab8ec2ba9014c98289a8fec42573aa1a6f"
+  },
+  {
+    "path": "output/figures/paper_v66/figure3_complete_hourly_matching.pdf",
+    "bytes": 238267,
+    "sha256": "d1aab5122316d8ea519d57360eff00434911919ed7af81b6e1dfe72fd2061181"
+  },
+  {
+    "path": "output/greenfield_cfe_20260915/figure3_counterfactual.json",
+    "bytes": 173284,
+    "sha256": "e6b1a10bb647fb49e06de8c132b69b5e76bcbec8e02989a3f4467bcfc2f0d6fc"
+  },
+  {
+    "path": "output/greenfield_cfe_20260915/figure3_frontier.csv",
+    "bytes": 9231,
+    "sha256": "d4c102417fddc0d3bc0d51931ebd58ce87fec07f91ed8d5137132f570f5379bf"
+  },
+  {
+    "path": "output/greenfield_cfe_20260915/figure3_surface.csv",
+    "bytes": 69873,
+    "sha256": "53a4b267975a005f7eebca9fabe4a0a9f037af719944e93564babfa9c64c630a"
+  },
+  {
+    "path": "output/greenfield_cfe_20260915/full_matching_cost_summary.csv",
+    "bytes": 18233,
+    "sha256": "1de0a6b6b69fe41335b76d8fb6171b77bc11fc651a0f6c3fb1ff36e1ac20c891"
+  },
+  {
+    "path": "output/greenfield_cfe_20260915/summary_validation.json",
+    "bytes": 527,
+    "sha256": "2ce1e174c533bdd7b592c98aa7596d5873de051fae0b35e44ba29b7b583a6263"
+  },
+  {
+    "path": "output/multimodel_analysis_20260913/demand_and_physical_supply_summary.csv",
+    "bytes": 758,
+    "sha256": "5ab39e9acb4338b3430117081f983cf9b4b80c287e48db6ecfeb37d4cb5a0c37"
+  },
+  {
+    "path": "output/multimodel_analysis_20260913/result1_paired_changes.csv",
+    "bytes": 136357,
+    "sha256": "f8712582d03939567b8caaa48c2d4cb78d2231101f71b12e31d1f918579b764f"
+  },
+  {
+    "path": "output/multimodel_analysis_20260913/result1_summary.csv",
+    "bytes": 36108,
+    "sha256": "03eacd03fdccd933d5941acab93e02e7f0998fd58c8a24d44d6d3e7e1968f7cd"
+  },
+  {
+    "path": "output/multimodel_analysis_20260913/result1_validation.json",
+    "bytes": 732,
+    "sha256": "28ce32fc97d12fc92794933c536f3486f23800e8c2f663b3acf9731cff6ad258"
+  },
+  {
+    "path": "output/multimodel_analysis_20260913/result234_mechanisms_by_year.csv",
+    "bytes": 375635,
+    "sha256": "a84dab7c8ba3a2d04ddf523aff223bd80714adfdfbd6b0ad4e6fefcd698f665c"
+  },
+  {
+    "path": "output/multimodel_analysis_20260913/result234_mechanisms_mean.csv",
+    "bytes": 20933,
+    "sha256": "2dad91d893cf2d664801e5c5844622f052b36c721a10547a5e0a410b6d1a03d7"
+  },
+  {
+    "path": "output/persistence_20260914/countries_by_year.csv",
+    "bytes": 10321609,
+    "sha256": "6cf71f228a572cb3b7ae04ff1557cc98e090351d826810bffd8be194210aa85d"
+  },
+  {
+    "path": "output/persistence_20260914/countries_change.csv",
+    "bytes": 272221,
+    "sha256": "635f23594d18865cebfeea4114cfc59c9f0a3c9d22da275fa46152a4cc098108"
+  },
+  {
+    "path": "output/persistence_20260914/countries_mean.csv",
+    "bytes": 567296,
+    "sha256": "40c11e1a5019465e36f38229235443e3a46b978fc6a1502cdd7259d394ad893e"
+  },
+  {
+    "path": "output/persistence_20260914/events_by_year.csv",
+    "bytes": 348378,
+    "sha256": "d702e7b77664fb2338bc433ef02e320349170ca9e9b6fceadf1ec5c037e59fdb"
+  },
+  {
+    "path": "output/persistence_20260914/events_change.csv",
+    "bytes": 9552,
+    "sha256": "fb16755561baf983f132792629c2c3c3db8520f09bf454911a02c7d92983e7be"
+  },
+  {
+    "path": "output/persistence_20260914/events_mean.csv",
+    "bytes": 18051,
+    "sha256": "37366258fba9dd4de275f9d81984ab3499e460295fbd3ede7720f070d152d188"
+  },
+  {
+    "path": "output/persistence_20260914/physical_by_year.csv",
+    "bytes": 99933,
+    "sha256": "f58bbd0555678a5930368e20e2b34d2d0e4d333f9ac1be7e5007c7211a8695f6"
+  },
+  {
+    "path": "output/persistence_20260914/physical_change.csv",
+    "bytes": 2527,
+    "sha256": "fc5dce683b261f19ffcb9d3fce71010b6243e26c07909023baf97459758e2e1a"
+  },
+  {
+    "path": "output/persistence_20260914/physical_mean.csv",
+    "bytes": 5216,
+    "sha256": "7a36ee1373f34d5db6d690b1668c4990ca4dc098b6c46eb0a5baadac523a8bc9"
+  },
+  {
+    "path": "output/result1_full_matrix_20260912/model_ssp_scenario_summary.csv",
+    "bytes": 5908,
+    "sha256": "b763bd060bcbdf71bb107d2f8ab6ef24a7fd820e3c8903fb012df273ddf37311"
+  },
+  {
+    "path": "output/result1_full_matrix_20260912/paired_summary_all_cases.csv",
+    "bytes": 688412,
+    "sha256": "fc1d8fc19e0bc7ddb42753b88f6296a0f6fc6370deed13e6120fe7b0fd686202"
+  },
+  {
+    "path": "output/result1_full_matrix_20260912/weather_year_paired_changes.csv",
+    "bytes": 84742,
+    "sha256": "ea6d49e30928b44b48653c04018c60a9ca2e958a44b7cd1f58f9df1b8bee8da5"
+  },
+  {
+    "path": "output/rewrite_v11/future/price_interface_2030.json",
+    "bytes": 2682,
+    "sha256": "6ba87bf83b262675cd8ccef34c2d00c33964550e8015d1a46f51237745758ae9"
+  },
+  {
+    "path": "research_pipeline/requirements_climate_coupling.txt",
+    "bytes": 291,
+    "sha256": "e506694549499626502fb71e766904b1c1f74fe213d21bafdd81895ebdcd332c"
+  },
+  {
+    "path": "research_pipeline/requirements_supply_replay.txt",
+    "bytes": 273,
+    "sha256": "6297525b155301efc2c36382ee83b25cfd5418a0174ac03264299f5476e4d3c2"
+  },
+  {
+    "path": "research_pipeline/scripts/05_build_hourly_inputs.py",
+    "bytes": 26323,
+    "sha256": "2fe70e7ca3e33bb0eac0de52e69c8fd571f622338c57359506597f419c7f488f"
+  },
+  {
+    "path": "research_pipeline/scripts/24_build_dcwatch_era5_grid.py",
+    "bytes": 14484,
+    "sha256": "a20479242c9bc9f123e4ad9c9f65066eecb59ef5db68b34972e3c849604201fc"
+  },
+  {
+    "path": "research_pipeline/scripts/25_fetch_dcwatch_era5_weather.py",
+    "bytes": 17050,
+    "sha256": "a9e5a4e090edb5832e9f328dc4b02f774f9f5ee57d1a9223594934e771b7e9f2"
+  },
+  {
+    "path": "research_pipeline/scripts/25b_fetch_dcwatch_era5_interval_boundary.py",
+    "bytes": 9972,
+    "sha256": "506c9558b655fcca5ddb69ec6e9d8a23e2a596b66b1296392fe54308abc7dedd"
+  },
+  {
+    "path": "research_pipeline/scripts/26_compute_dcwatch_climate_demand_supply.py",
+    "bytes": 74280,
+    "sha256": "b12a92382060f27b6c1fc354d7dbbbd31099f69470bcd2cf7ba0fcd1bd6ce28b"
+  },
+  {
+    "path": "research_pipeline/scripts/27_validate_dcwatch_climate_coupling.py",
+    "bytes": 21399,
+    "sha256": "3fe33cb77e64bead270cf47a2682a87e3354387ac1a0d7613a16b10513d062a9"
+  },
+  {
+    "path": "research_pipeline/scripts/28_build_actual_wind_solar_database.py",
+    "bytes": 46881,
+    "sha256": "f14d956b62a02842f19888253437b08fcf5722712c50a41db7bbb4aa7b7107c1"
+  },
+  {
+    "path": "research_pipeline/scripts/29_build_entsoe_wind_solar_database.py",
+    "bytes": 23159,
+    "sha256": "1fe81a50f31bdbf57a4931ec7df2671a0bdff768844c25d4af3d2af27784b7b8"
+  },
+  {
+    "path": "research_pipeline/scripts/30_build_irena_capacity_database.py",
+    "bytes": 21853,
+    "sha256": "f6d376c7419597b8dd68518b37512c7628812eb1f6bc2673d97557bccfceebe1"
+  },
+  {
+    "path": "research_pipeline/scripts/31_build_gem_historical_vintages.py",
+    "bytes": 37038,
+    "sha256": "262d72c1d28c79463a8481e16b6860c2809e2a65fe63ff34275d6f4a36848bd6"
+  },
+  {
+    "path": "research_pipeline/scripts/33_validate_wind_solar_database.py",
+    "bytes": 12706,
+    "sha256": "6d0744d0f2470dd1d3e78602d1ece554c32849453ca51a82d2d2aa2389f0f719"
+  },
+  {
+    "path": "research_pipeline/scripts/34_compute_reported_wind_solar_supply.py",
+    "bytes": 18374,
+    "sha256": "6cbb22387fd25cf35ea011105db099358c53544221ea16c6aa9532f2befbcdf4"
+  },
+  {
+    "path": "research_pipeline/scripts/35_compute_facility_hourly_climate_demand.py",
+    "bytes": 40901,
+    "sha256": "a46c2075a745a43911ed61c9ab794eb72a2c55424e59c6aa9e4880689fc2e271"
+  },
+  {
+    "path": "research_pipeline/scripts/36_build_fixed_2025_supply_inventory.py",
+    "bytes": 40398,
+    "sha256": "196d7dbc461cd534a597c2d3e9e77a53358c6cc482e0daec7f89b18a17e3f72b"
+  },
+  {
+    "path": "research_pipeline/scripts/37_extract_cds_arco_supply_resource.py",
+    "bytes": 36289,
+    "sha256": "a37bdb85ef158d4ceedca3fcb8e90b66b0f1cc9c0137c8a35e6582655ec532f1"
+  },
+  {
+    "path": "research_pipeline/scripts/38_compute_fixed_2025_supply_replay.py",
+    "bytes": 36925,
+    "sha256": "d9d89ea0a0f2a7d06cb9e67c1bfa6f269b20269c1e5c4a7792b4f67bd8d6e2f4"
+  },
+  {
+    "path": "research_pipeline/scripts/39_validate_replay_against_reported_supply.py",
+    "bytes": 21669,
+    "sha256": "0cd0f6c195e0577e21458b9ac5bd391e86e865f4fe350ac754a1c7e357cd45bd"
+  },
+  {
+    "path": "research_pipeline/scripts/40_extract_cds_arco_facility_weather.py",
+    "bytes": 25862,
+    "sha256": "a6bd68c9b1db4e66fb899501c735a2398cc32e7c248c3993bb653b5b7716da06"
+  },
+  {
+    "path": "research_pipeline/scripts/41_validate_facility_weather_replay.py",
+    "bytes": 14522,
+    "sha256": "3cded208460ae9c14679254404832dbedfa513013176a13eefb6d77e2e16b306"
+  },
+  {
+    "path": "research_pipeline/scripts/42_compute_facility_hourly_demand_replay.py",
+    "bytes": 27365,
+    "sha256": "166bc7588461d3a441604e0919cd147f2a33c86c1924599bf43922945dfc3f63"
+  },
+  {
+    "path": "research_pipeline/scripts/43_validate_facility_demand_replay.py",
+    "bytes": 11110,
+    "sha256": "d5dada19a49a91e7e2374b14e7b646f18275b5201a403bc42536f472324d08aa"
+  },
+  {
+    "path": "research_pipeline/scripts/44_apply_pv_bias_correction.py",
+    "bytes": 18803,
+    "sha256": "0e8825217b5db88cf6274f62b9be5dde98eb01d3ccb1a8f526cc0344bfb47437"
+  },
+  {
+    "path": "research_pipeline/scripts/45_extract_cds_arco_facility_resource.py",
+    "bytes": 10068,
+    "sha256": "7965108cb15ac894bb955281b966ce408bfbbf3f84aeed70b4751662321218d3"
+  },
+  {
+    "path": "research_pipeline/scripts/46_build_demand_supply_country_crosswalk.py",
+    "bytes": 9870,
+    "sha256": "1764b5e99d9add5e467cfc2b13c815dee44be3dd35e84b3314d5ca2e270f147c"
+  },
+  {
+    "path": "research_pipeline/scripts/47_compute_geographic_cfe_scenarios.py",
+    "bytes": 22461,
+    "sha256": "f30d2c0a2bd24d5e641b82a57028cc300befd5dfe1ce8c8277b18aadfee63b3a"
+  },
+  {
+    "path": "research_pipeline/scripts/48_build_local_supply_pools.py",
+    "bytes": 8129,
+    "sha256": "c1e34f253e98ce12f2a82391b33c9db2c89beccdf09b71a9824645f87a6828f5"
+  },
+  {
+    "path": "research_pipeline/scripts/49_analyse_geographic_ladder.py",
+    "bytes": 10839,
+    "sha256": "bcb4ee3583e2749c19f26a636db97603c1c289ff42f960d694067424e816a31b"
+  },
+  {
+    "path": "research_pipeline/scripts/50_build_onsite_supply_cf.py",
+    "bytes": 6423,
+    "sha256": "f08792ad746e1eaa4380795cd15d7b092f9b755e3b2c4b8f75e899bf549f6914"
+  },
+  {
+    "path": "research_pipeline/scripts/51_fetch_nex_gddp_global_points.py",
+    "bytes": 14147,
+    "sha256": "b5a2c05ce1c084b924c1522322e7fdf61da377f5b66ed0a5ac1cfdfc4e4e83e4"
+  },
+  {
+    "path": "research_pipeline/scripts/52_optimise_cfe_portfolio.py",
+    "bytes": 14474,
+    "sha256": "9884424e07230fdb27279190d3501be264e60cc537ac89c0fca9d08df78046de"
+  },
+  {
+    "path": "research_pipeline/scripts/53_build_qdm_deltas.py",
+    "bytes": 11391,
+    "sha256": "9b536c078c42389855b0db8de8f513b0c68a1f90ff37fc947285e02d3d273efb"
+  },
+  {
+    "path": "research_pipeline/scripts/54_morph_era5_to_future.py",
+    "bytes": 18056,
+    "sha256": "eea0ac54e13e56c37e9817f1653d4d1046499cf745dfc431d5f52e24ab31f4f6"
+  },
+  {
+    "path": "research_pipeline/scripts/55_extract_supply_future_cf.py",
+    "bytes": 6626,
+    "sha256": "e55d878cb709c126ba70844561673e32ceb946388f54c75f50c1579af811d571"
+  },
+  {
+    "path": "research_pipeline/scripts/56_decompose_climate_counterfactuals.py",
+    "bytes": 13890,
+    "sha256": "83de6147025ea27e4a3b7df1f2eab6c64bd4582665fbbdeae924328a94d4d939"
+  },
+  {
+    "path": "research_pipeline/scripts/57_aggregate_future_supply_replay.py",
+    "bytes": 2009,
+    "sha256": "78039f557ccf29420724d9cae13fa05878dd54a8182bd72428065b3c83ff8cb0"
+  },
+  {
+    "path": "research_pipeline/scripts/59_decompose_counterfactuals_by_site.py",
+    "bytes": 10644,
+    "sha256": "658532a67dccc6f283c33ec51a0a6361577e99d095d6c72e7270295c811e0ffb"
+  },
+  {
+    "path": "research_pipeline/scripts/60_build_design_year_tensor.py",
+    "bytes": 13862,
+    "sha256": "36731553722d3e3680d217e4fcc648d32e20dd6983acc112962fd1feb84fffab"
+  },
+  {
+    "path": "research_pipeline/scripts/61_weather_robust_design.py",
+    "bytes": 21930,
+    "sha256": "1dc607459807dea362de62b84cd30ca787d5d58d6dfcccecc3378566ee548044"
+  },
+  {
+    "path": "research_pipeline/scripts/62_decompose_level_and_shape.py",
+    "bytes": 18740,
+    "sha256": "f231bd83ceed996345cda1801e2ea7389f05a7e014676742b20f1b0d422f0b99"
+  },
+  {
+    "path": "research_pipeline/scripts/63_firming_requirement.py",
+    "bytes": 24384,
+    "sha256": "773f1a53eeed072fc139b8d04e1ad982087b2b231bc63bfedee52f0e2ca1681b"
+  },
+  {
+    "path": "research_pipeline/scripts/64_compute_adaptation_frontier_and_compound_events.py",
+    "bytes": 37856,
+    "sha256": "a640b0cc3ff552772a136fcfeb43d2b0abc2d4748ba5191f0b0c932b5050db1a"
+  },
+  {
+    "path": "research_pipeline/scripts/64w_window_sweep.py",
+    "bytes": 8659,
+    "sha256": "3acb1a194b323c7c03d6543ee46e952b387db954eea75bbddb18fa2a206ee68c"
+  },
+  {
+    "path": "research_pipeline/scripts/64x_country_windows.py",
+    "bytes": 7693,
+    "sha256": "f87d51a3d95170e94a7d54476d3c7ae9f8020db9629094c067c6efc70064fb09"
+  },
+  {
+    "path": "research_pipeline/scripts/65_summarise_regional_climate_archetypes.py",
+    "bytes": 6460,
+    "sha256": "7b08f7d6dcb19b9e053e7d3f58ba08c9e4ad15c9c81ce864e8704c44826ed104"
+  },
+  {
+    "path": "research_pipeline/scripts/66_compute_geographic_climate_conditioning.py",
+    "bytes": 27117,
+    "sha256": "561c7bea4665af95de4b4a04ea5f724dcf105101a54e2afd61aa28f794fba89b"
+  },
+  {
+    "path": "research_pipeline/scripts/67_compute_adaptation_economics.py",
+    "bytes": 27212,
+    "sha256": "eb60c8d291f78347967486c99f416c7b4f4edb52919122c337ac920561399037"
+  },
+  {
+    "path": "research_pipeline/scripts/67w_window_economics.py",
+    "bytes": 9910,
+    "sha256": "98857560aee01ff981a01993e400fa9bf66633fee58a2bc51979c7737a5e690e"
+  },
+  {
+    "path": "research_pipeline/scripts/67x_country_crossover.py",
+    "bytes": 7413,
+    "sha256": "4538baa174a5d97e8996f7a4aa849d842e6d8821ee8edec3241431a6bbebcc6e"
+  },
+  {
+    "path": "research_pipeline/scripts/68_rewrite_evidence.py",
+    "bytes": 9047,
+    "sha256": "5db2f9544b712772e9f5d29f01f33b3b70bfc8d293824349d643f3a5b2ea91de"
+  },
+  {
+    "path": "research_pipeline/scripts/69_fixed_volume_mechanisms.py",
+    "bytes": 8405,
+    "sha256": "ee70c5435346fb249eeba04dab7c11fa57e5aee0b985f56a1f6b6f34b4612d5a"
+  },
+  {
+    "path": "research_pipeline/scripts/72_capacity_storage_distance.py",
+    "bytes": 10389,
+    "sha256": "c94c2c368688d224ce845b88331e84d44329bc25523803fa8a1b325dde832f67"
+  },
+  {
+    "path": "research_pipeline/scripts/commissioning_learning_20260919.py",
+    "bytes": 13168,
+    "sha256": "26afbf9a5f8f3aba8f5506d3d240d2e0e6051fffbb927c59b98c9382956d8e25"
+  },
+  {
+    "path": "research_pipeline/scripts/complete_matching_technology_20260917.py",
+    "bytes": 7373,
+    "sha256": "7c67dc1eb42e56d6538c13a27ee97086a5af85bc74f47c19af7d02f82b18d366"
+  },
+  {
+    "path": "research_pipeline/scripts/greenfield_diagnostics_20260915.py",
+    "bytes": 6901,
+    "sha256": "1dca00fb953fa224b533067f177445ba633a20fe28b1335d71903a98d24faab0"
+  },
+  {
+    "path": "research_pipeline/scripts/greenfield_fallback_20260915.py",
+    "bytes": 4606,
+    "sha256": "cd30cf3d7d8661183b14111995d1ae2b43caa74a9f0dba438f04ad84f8309548"
+  },
+  {
+    "path": "research_pipeline/scripts/greenfield_kernel_20260915.cpp",
+    "bytes": 6232,
+    "sha256": "0c01c3640561c83781398963ffc125d05c80664167b34f87b5407dda28103d95"
+  },
+  {
+    "path": "research_pipeline/scripts/greenfield_optimise_20260915.py",
+    "bytes": 11699,
+    "sha256": "7e4255c5f1d35e2ad7e56d437fe019e796265df448765c74781dee63444c2bb9"
+  },
+  {
+    "path": "research_pipeline/scripts/greenfield_pool_metadata_20260915.py",
+    "bytes": 9874,
+    "sha256": "fd23b86b60eb42455e5518f4b26b2f1fbce455b70fc03654dae8831686597b40"
+  },
+  {
+    "path": "research_pipeline/scripts/greenfield_prepare_20260915.py",
+    "bytes": 6842,
+    "sha256": "3d115d13ea2ca9b569ad93c535a429119fa6b1ea4af96a4f21308f8b7f7acce7"
+  },
+  {
+    "path": "research_pipeline/scripts/greenfield_summarise_20260915.py",
+    "bytes": 4958,
+    "sha256": "3d0fbc901d576226e5c732c0894613dc70ff5189210324efcd52b7cef7f41abf"
+  },
+  {
+    "path": "research_pipeline/scripts/result1_full_matrix_summary.py",
+    "bytes": 4440,
+    "sha256": "caa5b196a8fe253d466fa9ffa01b3ccf09a29b8cc6f48514971fca3cdfead60b"
+  },
+  {
+    "path": "research_pipeline/scripts/result1_persistence_20260914.py",
+    "bytes": 13965,
+    "sha256": "42ed7049b04603a19d2d0100380d59e640a47523aa203b297937eac518db3b24"
+  },
+  {
+    "path": "research_pipeline/scripts/result1_persistence_summary_20260914.py",
+    "bytes": 3041,
+    "sha256": "a9411b5aed06b7efdc9046fb1b195fd2a2f617f471105e7774f9e9493c992ed9"
+  },
+  {
+    "path": "research_pipeline/scripts/result1_remote_worker.py",
+    "bytes": 6367,
+    "sha256": "3d456b28666a92a168af571f8d53b223b3dbcd06bc754d09d134bd790731a95e"
+  },
+  {
+    "path": "research_pipeline/scripts/result234_remote_worker.py",
+    "bytes": 12450,
+    "sha256": "0c8e1cacc9e6d9ac1d55cfa7c0dc18bb2fd65a2c2705b66c03de969eb9289175"
+  },
+  {
+    "path": "research_pipeline/scripts/result234_summarize.py",
+    "bytes": 12487,
+    "sha256": "a26a36322ab192e102128eec37f3edc0431d3854c309151cf2da11dd1f6aca0e"
+  },
+  {
+    "path": "research_pipeline/supply_resource_models.py",
+    "bytes": 13483,
+    "sha256": "4b36bec0f47119e0a8b855f9a7841a22b6015624dcfcfd77aa4af7f180cd674e"
+  },
+  {
+    "path": "scripts/plot_v69_figures.py",
+    "bytes": 16918,
+    "sha256": "8a265e47a429a87389e269c7db36139464487edb2cbbadd7e3cfe96437c7d1fe"
+  },
+  {
+    "path": "scripts/plot_v71_figure3b.py",
+    "bytes": 6114,
+    "sha256": "8db28c2970c205299211036fb9e3d8430c80b454d7f9cfb230e7a7743e3479ce"
+  }
+]

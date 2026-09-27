@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "validated_jobs": 180,
+  "summary_rows": 27,
+  "paired_rows": 540,
+  "source_hashes": {
+    "paired_summary_all_cases.csv": "fc1d8fc19e0bc7ddb42753b88f6296a0f6fc6370deed13e6120fe7b0fd686202",
+    "model_ssp_scenario_summary.csv": "b763bd060bcbdf71bb107d2f8ab6ef24a7fd820e3c8903fb012df273ddf37311",
+    "weather_year_paired_changes.csv": "ea6d49e30928b44b48653c04018c60a9ca2e958a44b7cd1f58f9df1b8bee8da5",
+    "complete.json": "9390c6d991cc24465b99e6db0a6665889445f4df7dbae22a084d5ff641ecc1c9"
+  },
+  "scope": "Annual supply normalized; site-specific worst-window sums. Weather-year points and IQR describe paired weather variability, not independent climate realizations or confidence intervals."
+}

@@ -1,0 +1,82 @@
+{
+  "dollar_year": 2023,
+  "real_discount_rate": 0.07,
+  "reference_year": 2030,
+  "scenario": "Moderate",
+  "atb_version": "2025 v1.0.0",
+  "usd2022_to_2023": 1.0412,
+  "technologies": {
+    "landbased_wind": {
+      "scenario": "Moderate",
+      "year": 2030,
+      "dollar_year": 2023,
+      "technical_life_years": 30,
+      "technology": "LandbasedWind",
+      "techdetail": "Class4",
+      "capex_usd_kw": 1630.8905552137192,
+      "fom_usd_kw_year": 35.081005,
+      "capacity_factor": 0.458866208888889,
+      "occ_usd_kw": 1441.69358609794,
+      "annual_usd_mw_year": 166508.60936491293,
+      "energy_usd_mwh": 41.42347322830411
+    },
+    "utility_pv": {
+      "scenario": "Moderate",
+      "year": 2030,
+      "dollar_year": 2023,
+      "technical_life_years": 30,
+      "technology": "UtilityPV",
+      "techdetail": "Class5",
+      "capex_usd_kw": 1164.224142599406,
+      "fom_usd_kw_year": 20.405560685166016,
+      "capacity_factor": 0.2716709215162774,
+      "occ_usd_kw": 977.6301934015936,
+      "annual_usd_mw_year": 114226.19721805918,
+      "energy_usd_mwh": 47.997482239153726
+    },
+    "battery_4h": {
+      "scenario": "Moderate",
+      "year": 2030,
+      "dollar_year": 2023,
+      "technical_life_years": 15,
+      "technology": "Utility-Scale Battery Storage",
+      "techdetail": "4Hr Battery Storage",
+      "capex_usd_kw": 1228.6099749222633,
+      "fom_usd_kw_year": 43.36876391494126,
+      "capacity_factor": null,
+      "occ_usd_kw": 1084.2190978735316,
+      "annual_usd_mw_year": 178263.53501544418,
+      "energy_usd_mwh": null,
+      "annual_usd_mwh_year": 44565.883753861046
+    },
+    "battery_8h": {
+      "scenario": "Moderate",
+      "year": 2030,
+      "dollar_year": 2023,
+      "technical_life_years": 15,
+      "technology": "Utility-Scale Battery Storage",
+      "techdetail": "8Hr Battery Storage",
+      "capex_usd_kw": 1998.02472615612,
+      "fom_usd_kw_year": 73.1365714383884,
+      "capacity_factor": null,
+      "occ_usd_kw": 1828.41428595971,
+      "annual_usd_mw_year": 292508.94639003085,
+      "energy_usd_mwh": null,
+      "annual_usd_mwh_year": 36563.618298753856
+    },
+    "geothermal_hydroflash": {
+      "scenario": "Moderate",
+      "year": 2030,
+      "dollar_year": 2023,
+      "technical_life_years": 30,
+      "technology": "Geothermal",
+      "techdetail": "HydroFlash",
+      "capex_usd_kw": 6678.2134015448,
+      "fom_usd_kw_year": 118.9373315141608,
+      "capacity_factor": 0.9,
+      "occ_usd_kw": 4437.2616618456495,
+      "annual_usd_mw_year": 657110.5314243605,
+      "energy_usd_mwh": 83.34735304722989
+    }
+  }
+}

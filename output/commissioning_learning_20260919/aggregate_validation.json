@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "pool_plans": 99615,
+  "pools": 145,
+  "climate_states": 9,
+  "max_relative_optimality_gap": 2.0000000005016005e-06,
+  "max_hourly_gap_mw": 0.0,
+  "max_cyclic_error_mwh": 0.0,
+  "commissioning_years": [
+    2030,
+    2050
+  ],
+  "weather_samples": 20,
+  "price_formula": "CAPEX0*(1-learning_rate)^(doublings*(year-2030)/20)",
+  "objective": "independent new-build annualized capital + fixed O&M + gross-generation delivery",
+  "budget": "same-climate baseline-scale 2030 annualized complete-matching cost",
+  "learning_rates": {
+    "Low": [
+      0.1,
+      0.05,
+      0.1
+    ],
+    "Medium": [
+      0.2,
+      0.1,
+      0.2
+    ],
+    "High": [
+      0.25,
+      0.15,
+      0.3
+    ]
+  },
+  "order": [
+    "PV",
+    "wind",
+    "battery"
+  ],
+  "source_sha256": "26afbf9a5f8f3aba8f5506d3d240d2e0e6051fffbb927c59b98c9382956d8e25"
+}

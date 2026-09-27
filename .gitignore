@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.partial
+verification/
+output/figures/paper_v69/
+output/figures/paper_v71/
+output/rewrite_v69/
+output/rewrite_v71/
